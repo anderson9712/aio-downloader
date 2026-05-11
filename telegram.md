@@ -7,6 +7,151 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 17:43
+---
+
+## FoxNewsTwitter — post 341527
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: Health officials give update on American passengers returning to US after hantavirus outbreak on cruise ship https://twitter.com/i/broadcasts/1DxleEQrnngKL
+</div>
+
+## FoxNewsTwitter — post 341526
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341526_1778508790.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH: Heart-stopping bodycam footage shows NYPD officers rescuing a sobbing woman dangling off the edge of a Brooklyn high-rise.
+
+At one point, an officer carefully inches toward the woman telling her “We care about you. We don’t want to see you hurt yourself.”
+
+Emergency Services Unit officers later climbed over the ledge, sat beside her high above the street, and eventually pulled her back to safety.
+</div>
+
+## IranIntlTV — post 336659
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336659_1778508791.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بیش از ۷۳ روز است که میلیون‌ها نفر در ایران با قطع اینترنت مواجه هستند. به گفته بسیاری از شهروندان، این وضعیت زندگی، کار، درمان و آرامش روانی آن‌ها را مختل کرده است.
+
+گفت‌وگو با سحر تحویلی، کارشناس ارشد هوش مصنوعی و فناوری
+@iranintltv
+</div>
+
+## FarsiVOA — post 217441
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217441_1778508793.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فرماندهی مرکزی ایالات متحده، سنتکام، اعلام کرد ناوشکن «یو‌اس‌اس دلبرت دی. بلک» در حال عبور از دریای عرب بر اجرای محاصره دریایی علیه جمهوری اسلامی ایران نظارت می‌کند.
+
+سنتکام همچنین گفت نیروهای آمریکایی تاکنون مسیر ۶۲ کشتی تجاری را تغییر داده و چهار شناور را برای اطمینان از اجرای این اقدامات از کار انداخته‌اند.
+
+این گزارش در حالی منتشر می‌شود که تنش‌ها میان واشنگتن و تهران ادامه دارد.
+
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13921
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_13921_1778508794.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ارتقای یک تیپ نظامی در آمریکا
+
+💢گزارش‌ها حاکی از آن است که تیپ رزمی سیار ۱۱۶ از گارد ملی ارتش ویرجینیا در آمریکا، به عنوان نخستین یگان، به پهپادها و سامانه‌های جنگ الکترونیک مجهز شده است.
+
+📌 این اقدام در راستای مدرن‌سازی نیروهای زمینی و افزایش توان شناسایی، رصد و جنگ الکترونیک انجام شده است؛ روندی که ارتش آمریکا در سال‌های اخیر به‌طور گسترده دنبال می‌کند.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157060
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157060_1778508795.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸دولت بریتانیا روز دوشنبه، ۲۱ اردیبهشت، ۱۲ فرد حقیقی و حقوقی مرتبط با حکومت ایران را تحریم کرد.
+
+🔸به گزارش خبرگزاری رویترز، این افراد به «مشارکت در اعمال خصمانه» علیه بریتانیا و چند کشور دیگر متهم شده‌اند.
+
+🔸در بیانیه رسمی دولت بریتانیا، از جمله این اعمال خصمانه به «طراحی حمله و ارائه خدمات مالی به گروه‌هایی که در پی بی‌ثبات کردن بریتانیا و دیگر کشورها هستند» اشاره شده است.
+
+🔸این اقدام تحریمی تازه از طرف دولت بریتانیا شامل مسدود کردن اموال و حساب‌های این افراد و منع سفر آنها به این کشور است.
+
+🔸در ماه‌های گذشته گمانه‌زنی‌هایی درباره احتمال پشتیبانی تهران از حمله‌های یهودستیزانه در بریتانیا مطرح شده است.
+
+🔸همزمان یک گروه اسلام‌گرای مشکوک به ارتباط با ایران، موسوم به «حرکه اصحاب الیمین الاسلامیه»، به معنای «جنبش اسلامی یاران دست راست»، مسئولیت این حملات و حملاتی مشابه در چند کشور اروپایی را بر عهده گرفته است.
+
+@RadioFarda
+</div>
+
+## Dirty_Kids — post 389262
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یذره کراتینم ریخت رو کابینت کابینتو لیس زدم، اقتصاد مقاومتی
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Hranews — post 112883
+
+<div align="center">
+  <img src="telegram/content/Hranews_112883_1778508796.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عنقا سیاوشی، شهروند بهائی آزاد شد
+ 
+
+❗️
+❗️
+❗️
+❗️
+❗️ – امروز دوشنبه ۲۱ اردیبهشت ماه، عنقا سیاوشی، شهروند #بهائی ساکن شیراز با تودیع وثیقه از زندان عادل آباد این شهر آزاد شد.
+ 
+به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، عنقا سیاوشی، شهروند بهائی آزاد شد.
+ 
+بر اساس اطلاعات دریافتی هرانا، آزادی عنقا سیاوشی امروز دوشنبه ۲۱ اردیبهشت ماه با تودیع وثیقه و از زندان عادل آباد شیراز صورت گرفته است.
+ 
+ادامه مطلب
+ 
+#عنقا_سیاوشی
+ 
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 119300
+
+<div align="center">
+  <a href="telegram/content/alonews_119300_1778508797.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سرلشکر جعفری، فرمانده:
+تا وقتی 5 شرط ما یعنی جنگ تو همه جبهه‌ها تموم نشه، تحریم‌ها برداشته نشه، پول‌های بلوکه‌شده آزاد نشه، خسارت‌های ناشی از جنگ جبران نشه و حق حاکمیت جمهوری اسلامی بر تنگه هرمز به رسمیت شناخته نشه، هیچ مذاکره دیگه‌ای در کار نیست.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 17:33
 ---
 
