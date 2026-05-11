@@ -7,6 +7,40 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 03:32
+---
+
+## FoxNewsTwitter — post 341512
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341512_1778457761.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+"The American Revolution was against the billionaires of their time."
+
+Rep. Alexandria Ocasio-Cortez tripled down on her criticism of the wealthy after recently arguing that billionaires didn't "earn" their fortunes.
+</div>
+
+## IranIntlTV — post 336552
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بیش از ۳۶ هزار نام در این فهرست ثبت شده؛
+اما هیچ کلامی نمی‌تواند توضیح بدهد که هر کدام از این جوانان چه کسی بودند و نبودنشان چه چیزی را از این سرزمین کم کرد.
+یکی سرطان را شکست داده بود،
+یکی دانشجوی مکانیک بود،
+یکی مربی ورزش،
+یکی کارگر انبار،
+و یکی هنوز با رویای آینده درس می‌خواند.
+عسل شاکری، محمدرضا سیفی، عرشیا رضایی، محمدحسین پایدار حسینی، سیدامیر رستمیان، علیرضا قسیمی، کامران (مهدی) احمدی و فاطمه (لونا) کرمانی‌نژاد
+جاویدنامان انقلاب ملی ایرانیان؛
+نام‌هایی که هر کدام، یک زندگی و یک رویای ناتمام بودند.
+#جاویدنامان_انقلاب_ملی_ایرانیان
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 03:29
 ---
 
