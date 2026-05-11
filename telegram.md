@@ -7,6 +7,108 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 23:42
+---
+
+## WithYashar — post 10992
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+درود
+خدا قوت
+دمت گرم حرف نداری بخدا
+یه جوری شده از صبح که میرم سرکار تا شب که برمیگردم خونه کلا تلگرام رو باز نمیکنم که شب بعد چای و سیگار بشینم یه دل سیر پیام ها و تحلیل هات رو گوش کنم و صدای دلنشینت رو بشنوم روحیه بگیرم برای روز بعد
+بعدشم بخدا که تمام تحلیل هات درسته و دقیق
+به امید پیروزی
+</div>
+
+## WithYashar — post 10991
+
+
+
+
+## WithYashar — post 10990
+
+
+
+
+## IranIntlTV — post 336706
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336706_1778530378.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مصطفی دانشگر، تحلیل‌گر سیاسی، گفت: «تلاش تهران برای امتیاز ندادن به واشینگتن در مساله هسته‌ای، بیش از آن‌که بر پشتوانه‌ای مشخص استوار باشد، ناشی از توهم و اشتباه محاسباتی است.»
+@iranintltv
+</div>
+
+## IranIntlTV — post 336705
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336705_1778530380.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ائتلاف منطقه‌ای علیه تهران در حال شکل‌گیری است. تام کاتن، سناتور جمهوری‌خواه، گفت کشورهای عربی دیگر از آمریکا برای صلح کمک نمی‌خواهند، بلکه به‌دنبال همکاری نظامی علیه جمهوری اسلامی هستند.
+
+گفت‌وگو با شایان سمیعی، کارشناس امنیت ملی
+@iranintltv
+</div>
+
+## FarsiVOA — post 217481
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️دونالد ترامپ، رئیس جمهوری آمریکا، روز دوشنبه ۲۱ اردیبهشت، طی مراسمی در کاخ سفید، درباره مذاکرات جاری با رژیم ایران گفت که رهبران جمهوری اسلامی افرادی غیرشرافتمند و دیوانگانی هستند که مدام نظرشان را تغییر می‌دهند. صدای آمریکا بخشی از این مراسم را به طور زنده و با ترجمه همزمان پژواک کیومرثی پخش کرد.
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217480
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217480_1778530382.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️سینا قنبرپور در برنامه تفسیر خبر: از زنان ایران بیاموزیم که چگونه یک حکومت خودکامه را به عقب برانیم
+@FarsiVOA
+</div>
+
+## alonews — post 119385
+
+<div align="center">
+  <a href="telegram/content/alonews_119385_1778530383.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فرماندهی عملیات مشترک عراق تأیید کرد که نیروهایش در ماه مارس با «واحدهای ناشناس بدون مجوز» که توسط هواپیما پشتیبانی می‌شدند در بیابان کربلا درگیر شدند، در حالی که تأکید کرد در حال حاضر هیچ نیروی غیرمجاز یا پایگاهی در خاک عراق وجود ندارد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119384
+
+<div align="center">
+  <a href="telegram/content/alonews_119384_1778530383.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈کانال ۱۲ اسرائیل: رئیس‌جمهور ترامپ تمایل دارد دستور ازسرگیری درگیری با ایران را صادر کند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119383
+
+<div align="center">
+  <a href="telegram/content/alonews_119383_1778530383.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈کارکنان یک بیمارستان در هلند پس از اشتباهات رویه‌ای مرتبط با یک بیمار مبتلا به هانتاویروس، ایزوله شده‌اند، به گفته خبرگزاری AFP
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 23:32
 ---
 
