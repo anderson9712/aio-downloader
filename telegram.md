@@ -7,6 +7,117 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 11:13
+---
+
+## mwarmonitor — post 8943
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_8943_1778571790.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📍 ۴ نفتکش/تانکر صبح امروز از تنگه هرمز عبور کردند:
+
+🚢 نفتکش LPG APEX GAS با پرچم امارات (مرتبط با 🇨🇳 چین)
+🚢 نفتکش نفت QUAR با پرچم جزایر ویرجین (مرتبط با 🇨🇳 چین)
+🚢 نفتکش نفت STARWAY با مالکیت 🇨🇳 چین
+🚢 نفتکش نفت AQUILA با پرچم سنگاپور (مرتبط با 🇨🇳 چین)
+
+@mwarmonitor
+</div>
+
+## FarsiVOA — post 217506
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺پالایشگاه‌های مستقل چین تولید را کاهش دادند؛ فشار تازه بر مسیر فروش نفت تحریمی تهران
+
+▪️رویترز به نقل از منابع تجاری و پالایشگاهی گزارش داد شماری از پالایشگاه‌های مستقل چین در استان شاندونگ، همزمان با افزایش زیان مالی، تولید سوخت خود را کاهش داده‌اند.
+
+▪️این اقدام می‌تواند تقاضا برای نفت تحریمی ایران و روسیه را در بزرگ‌ترین واردکننده نفت جهان کاهش دهد.
+
+▪️پالایشگاه‌های مستقل چین حدود ۹۰ درصد نفت صادراتی جمهوری اسلامی را خریداری می‌کنند و واردات آنها از نفت ایران در ماه مارس به رکورد حدود یک میلیون و ۸۰۰ هزار بشکه در روز رسیده بود.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8149151.html
+</div>
+
+## IranianMinds — post 19992
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سی‌ان‌ان:
+
+ترامپ تا قبل از سفرش به چین، تصمیمی برای حمله به ایران نمی‌گیرد و پس از اتمام سفر، تصمیم حمله را خواهد گرفت.
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280814
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻شاید باقلوا تنها یک شیرینی سنتی خاورمیانه‌ای به نظر بیاید که در مناسبت‌ها و مهمانی‌ها سرو می‌شود، اما پشت لایه‌های نازک خمیر، شربت و مغز پسته، زنجیره‌ای جهانی و بسیار حساس از تامین کالا قرار دارد.
+
+با افزایش تنش‌های منطقه‌ای و بسته شدن تنگه هرمز، یکی از مهم‌ترین شریان‌های دریایی تجارت جهانی، این شیرینی کوچک هم بازتابی از بحران‌هایی بزرگ‌تر از اندازه خود شده است. این بحران بر قیمت پسته، زعفران و دیگر مواد اولیه صنعت شیرینی‌پزی اثر گذاشته است؛ به ویژه در بازارهای خلیج فارس که وابستگی زیادی به واردات دارند.
+ادامه مطلب⬇️
+📸GettyImages/ Anadolu via Getty Images/ AFP via Getty Images/ Universal Images Group via Getty Images
+https://bbc.in/4wvMvvB
+@BBCPersian
+</div>
+
+## alonews — post 119439
+
+<div align="center">
+  <a href="telegram/content/alonews_119439_1778571790.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزارت خارجه پاکستان: اگرچه مذاکرات رسمی هنوز از سر گرفته نشده است، اما تماس‌های دیپلماتیک در سطح بالا ادامه دارد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119438
+
+<div align="center">
+  <a href="telegram/content/alonews_119438_1778571790.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈کره جنوبی هم به مذاکرات چندملیتی بازگشایی تنگه هرمز پیوست
+
+
+🔴سئول قرار است امروز سه شنبه به یک نشست چندملیتی سطح بالای وزرای دفاع برای بحث در مورد امنیت تنگه هرمز بپیوندد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119437
+
+<div align="center">
+  <a href="telegram/content/alonews_119437_1778571791.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ پس از شنیدن صدای یک پرنده در نشست خبری کاخ سفید: اوه! فکر کردم یه پهپاده؛ این روزها پهپادها رو در اندازه‌های مختلف درست می‌کنن و می‌تونن خیلی مخرب باشن، همون‌طور که احتمالا شنیدید
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119436
+
+<div align="center">
+  <a href="telegram/content/alonews_119436_1778571792.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈معاون نیروی دریایی سپاه: تحرکات را با دقت زیرنظر داریم در یکی از موارد اخیر، یک ناوچه آمریکایی قصد عبور از محدودهٔ تنگهٔ هرمز را داشت که با رصد دقیق نیروهای مسلح مواجه شد و پس از مشاهدهٔ برخی رفتارهای تحریک‌آمیز، نیروی دریایی ارتش با شلیک‌های هشداردهنده و هدفمند، پیام لازم را منتقل کرد و این شناور نیز بلافاصله مسیر خود را تغییر داد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 11:03
 ---
 
