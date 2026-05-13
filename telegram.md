@@ -7,6 +7,227 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 22:35
+---
+
+## VahidOOnLine — post 239968
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239968_1778699104.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️رونمایی از پیراهن جدید تیم ملی فوتبال ایران برای جام جهانی ۲۰۲۶ با حضور مهدی تاج، امیر قلعه‌نویی و احسان حاج‌صفی در میدان انقلاب تهران برگزار شد؛ پیراهنی که با طرح «یوز ایرانی» و شماره ۱۲ معرفی شد و قرار است تیم ملی با آن در جام جهانی به میدان برود.
+این رونمایی در شرایطی انجام می‌شود که طی هفته‌های اخیر، بحث حضور تیم ملی ایران در جام جهانی ۲۰۲۶ و مسائل مرتبط با ویزا، امنیت و تنش‌های سیاسی منطقه‌ای بار دیگر خبرساز شده است.
+پیش‌تر مهدی تاج اعلام کرده بود فدراسیون فوتبال جمهوری اسلامی «قطعا» در جام جهانی ۲۰۲۶ شرکت خواهد کرد و در عین حال گفته بود ایران برای حضور در این رقابت‌ها ۱۰ شرط را مطرح کرده است. به گفته او، جلوگیری از مصاحبه‌های تنش‌زا، تضمین امنیت کاروان تیم ملی، رعایت پروتکل‌های امنیتی فیفا در فرودگاه و ورزشگاه‌ها، تعیین تکلیف ویزای خبرنگاران و هواداران و همچنین جلوگیری از ورود پرچم‌هایی غیر از پرچم رسمی جمهوری اسلامی به ورزشگاه‌ها، از جمله این شروط هستند.
+مسابقات جام جهانی فوتبال ۲۰۲۶ از ۲۱ خرداد تا ۲۸ تیر ۱۴۰۵ برگزار خواهد شد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239967
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239967_1778699105.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ خبرگزاری رویترز روز چهارشنبه ۲۳ اردیبهشت به نقل از منابع آگاه گزارش داد که در جریان جنگ ایران، جنگنده‌های نیروی هوایی عربستان سعودی، اهداف متعلق به شبه‌نظامیان تحت حمایت تهران را در نزدیکی مرزهای شمالی خود با عراق بمباران کرده‌اند. این حملات که بخشی از آن در نزدیکی زمان شروع آتش‌بس رخ داده، مراکزی را هدف قرار داده است که از آن‌ها برای حملات پهپادی و موشکی به خاک عربستان سعودی و دیگر کشورهای خلیج فارس استفاده می‌شد.
+
+هم‌زمان، منابع نظامی و امنیتی عراق از شلیک راکت از خاک کویت به سمت مواضع شبه‌نظامیان در جنوب عراق در حداقل دو نوبت خبر داده‌اند. در یکی از این حملات که در ماه آوریل انجام شد، چندین شبه‌نظامی کشته شده و یک مرکز ارتباطاتی و عملیات پهپادی متعلق به «کتائب حزب‌الله» منهدم شده است. رویترز اشاره کرد که هنوز مشخص نیست این پرتاب‌ها توسط ارتش کویت انجام شده یا نیروهای آمریکایی مستقر در این کشور؛ چرا که ارتش آمریکا از اظهارنظر در این باره خودداری کرده و دولت‌های کویت و عراق نیز به درخواست‌ها برای شفاف‌سازی پاسخ نداده‌اند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11166
+
+
+
+
+## WithYashar — post 11165
+
+
+
+
+## WithYashar — post 11164
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پیام سد مجید موسی ، فرمانده نیروی هوافضای ۳پا تیم ملی رو هم بردن وسط میدون مثل میمونای سیرک @withyashar
+</div>
+
+## mwarmonitor — post 9054
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸کوین وارش با رأی ۵۴ موافق در برابر ۴۵ مخالف توسط سنای آمریکا به عنوان رئیس فدرال رزرو تأیید شد. سناتور جان فترمن تنها دموکراتی بود که به این تأیید رأی مثبت داد.
+
+🔸کوین وارش یک اقتصاددان آمریکایی است که قبلاً عضو هیئت‌مدیره فدرال رزرو هم بوده و بیشتر به دیدگاه‌های نسبتاً محافظه‌کارانه در سیاست پولی مثل سخت‌گیری در کنترل تورم و تمایل به نرخ بهره بالاتر در بعضی شرایط شناخته می‌شود.
+
+🔹 او از چهره‌هایی است که معمولاً به جریان‌های اقتصادی نزدیک به جمهوری‌خواهان یا اقتصاد بازار آزاد نسبت داده می‌شود، هرچند نقش رسمی حزبی ندارد.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341670
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341670_1778699106.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: Vice President JD Vance shuts down talk of a "joint ticket" with Secretary of State Marco Rubio, insisting he is focused solely on the job the American people already elected him to do:
+
+"There are a few topics that I want to talk about less than what office I'm going to run for years down the road when I'm having a good time and trying to do good work in the job that the American people already elected me to do.”
+
+“I've answered this question, probably in any number of ways, I love Marco. I think he's a great secretary of state. He's become a very, very dear friend. But I think both of us are very much focused on accomplishing the American people's business right now.”
+</div>
+
+## FoxNewsTwitter — post 341669
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341669_1778699108.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: "We believe that at least half of the hospices in the entire area around Los Angeles are fraudulent."
+
+"Today we announce 800 of those hospices have been suspended. 800 hospices that last year charged the federal taxpayer $1.4 billion will no longer be paid." - CMS Administrator Dr. Mehmet Oz
+</div>
+
+## FoxNewsTwitter — post 341668
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341668_1778699110.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+VP VANCE: "So you're saying that we kicked off 800 fraudulent healthcare providers off of the Medicare system, and not a single one of them called the government and said, 'hey, you made a mistake?'"
+
+DR. OZ: "We've had a handful of calls. We're not sure they're legitimate yet, but it's less than 20 out of 800 and we're auditing them."
+
+VP VANCE:" Unbelievable... At least 780 are not even trying to claim that they're not fraudulent?"
+
+"Those are businesses that we were giving hundreds of millions, in some cases billions of dollars to, not to provide services, but to make a fraudster rich. It's just completely insane."
+</div>
+
+## kianmeli1 — post 87387
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87387_1778699112.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴هفتمین رأی‌گیری سنای آمریکا برای پایان جنگ با ایران شکست خورد
+
+مجلس سنا برای هفتمین‌بار قطعنامهٔ پیشنهادی برای توقف جنگ با ایران را رد کرد.
+
+جمهوری‌خواهان تقریباً متحد عمل کردند تا اولین تلاش از زمان عبور ترامپ از ضرب‌الاجل ۶۰ روزه برای دریافت مجوز جنگ از کنگره را ناکام بگذارند
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87386
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87386_1778699112.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴رویترز؛
+
+منابع متعددی که از جزئیات ماجرا آگاه هستند، اعلام کردند که در جریان جنگ با ایران، جنگنده‌های عربستان سعودی اهدافی مرتبط با شبه‌نظامیان تحت حمایت تهران را در عراق بمباران کردند. بعلاوه، حملات تلافی‌جویانه‌ای نیز از کویت به داخل خاک عراق انجام شد.
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87385
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87385_1778699113.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‏🔴خبرگزاری میزان، رسانه قوه قضاییه جمهوری اسلامی، از اعدام محمد عباسی از بازداشت‌شدگان اعتراضات سراسری دی‌ماه ۱۴۰۴ خبر داد
+https://t.me/kianmeli1
+</div>
+
+## FarsiVOA — post 217657
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺هشدار بنیاد نرگس: جسم نرگس محمدی توان تحمل هیچ «فشار مضاعفی» را ندارد
+
+◾️بنیاد نرگس، روز چهارشنبه ۲۳ اردیبهشت، در بیانیه‌ای ضمن تشریح روند درمانی نرگس محمدی در زنجان و تهران، اعلام کرد: «این زندانی سیاسی، نیازمند درمان دست‌کم ۸ ماهه است و بدنش در وضعیت فعلی توان تحمل هیچ‌گونه فشار مضاعف و بازگشت به شرایط حبس را ندارد.»
+
+⬇️ بیشتر بخوانید:
+
+https://ir.voanews.com/a/narges-mohammadi-prison-pressure-endurance-/8149626.html?withmediaplayer=1
+</div>
+
+## DW_Farsi — post 124667
+
+<div align="center">
+  <a href="telegram/content/DW_Farsi_124667_1778699113.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎥 صد روز در انزوا؛ آزمایش انسان برای سفر به مریخ
+
+شش داوطلب در پروژه "سولیس ۱۰۰" صد روز را در انزوای کامل سپری می‌کنند تا دانشمندان تاثیرات روانی و جسمی سفرهای طولانی فضایی را بررسی کنند؛ آزمایشی که می‌تواند به آمادگی بشر برای ماموریت‌های آینده به مریخ کمک کند.
+#dwscience #dwhealth
+@dw_farsi
+</div>
+
+## Dirty_Kids — post 389399
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389399_1778699115.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+امانوئل تو زن داری؟
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389398
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رفته بودیم ماسال. به صاحب‌ ویلا گفتم اینجا محلیا چه‌جوری‌ند؟ به حجاب گیرن یا زنا راحت بتابن؟
+گفت: زنا هر جور دوست دارن بپوشن، اما مردا شلوارک نپوشن، اهالی حساسن به شلوارک:))))))
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119806
+
+<div align="center">
+  <a href="telegram/content/alonews_119806_1778699115.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سوپراپلیکیشن ایتا اعلام کرد امکان ارسال فایل تا حجم ۲۰ مگابایت مجدداً برای همه کاربران فراهم شده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119805
+
+<div align="center">
+  <a href="telegram/content/alonews_119805_1778699115.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ادعای ونس، معاون رئیس‌جمهور آمریکا: ما درگیر یک فرایند دیپلماتیک فعال برای اطمینان از نداشتن سلاح هسته‌ای توسط ایران هستیم
+
+
+🔴رئیس‌جمهور گزینه‌های متعددی دیپلماتیک و نظامی پیش رو دارد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 22:24
 ---
 
