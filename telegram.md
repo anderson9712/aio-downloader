@@ -7,6 +7,114 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 14:44
+---
+
+## FoxNewsTwitter — post 341628
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341628_1778670846.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: House Speaker Mike Johnson sounds the alarm on “mini Mamdanis” to @kilmeade as Democrats trend toward electing socialists around the country:
+
+BRIAN KILMEADE: "Democrats seem to be nominating some extreme candidates... People say, ‘This is just like what the Republicans went through after they lost to Obama, they had the Tea Party.’ Is this the same to you?"
+
+JOHNSON: "This is something that we have never seen before in American history... This is about moving away from a constitutional republic to a communist utopian ideology."
+
+"This is not our father's Democratic Party anymore. They're going far, far left and no one’s there to stop it."
+
+| @foxandfriends
+</div>
+
+## IranIntlTV — post 336964
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336964_1778670849.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+چارلز سوم در «سخنرانی پادشاه» در پارلمان بریتانیا گفت کشورش در حوزه‌های اقتصاد، انرژی و دفاع با آزمون‌های دشواری روبه‌رو شده و دولت با یهودستیزی برخورد خواهد کرد.
+@iranintltv
+</div>
+
+## DW_Farsi — post 124643
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124643_1778670851.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 تلاش یک نفت‌کش چینی برای گذر از تنگه هرمز
+ 
+داده‌های رهگیری کشتی‌ها حاکی از آن است که که یک نفت‌کش غول‌پیکر چین روز چهارشنبه ۱۳ مه (۲۳ اردیبهشت) در تلاش عبور از تنگه هرمز  بوده است. به گزارش رسانه‌ها، این نفت‌کش حامل دو میلیون بشکه نفت خام عراق است.
+ 
+بر اساس داده‌های شرکت‌های "ال‌اس‌ای‌جی" و "کپلر" که در زمینه رهگیری کشتی‌ها فعالیت دارند،  نفتکش غول‌پیکر چینی "یوآن هوا هو" از نزدیکی جزیره لارک ایران عبور کرده و در بخش شرقی تنگه هرمز به سمت جنوب در حال حرکت است. 
+ 
+این داده‌ها نشان می‌دهد که نفت‌کش مزبور، اوایل ماه مارس نزدیک به دو میلیون بشکه نفت خام "بصره مدیوم" را در ترمینال بصره عراق بارگیری کرده و از آن زمان در خلیج فارس مانده بود. اعلام شده که مقصد این نفتکش آسیا است.
+ 
+خبرگزاری رویترز گزارش داده که اگر این تردد با موفقیت انجام گیرد، این سومین مورد ثبت‌شده عبور یک نفت‌کش چینی از تنگه هرمز از زمان آغاز جنگ آمریکا و اسرائیل علیه جمهوری اسلامی از اسفند ماه گذشته به این سو بوده است.
+ 
+@dw_farsi
+</div>
+
+## BBCPersian — post 280911
+
+<div align="center">
+  <a href="telegram/content/BBCPersian_280911_1778670852.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻در پی زمین‌لرزه‌های دیشب و بامداد امروز به وقت محلی که دماوند و تهران را لرزاند، ساکنان مناطقی که این زلزله‌ها را حس کردند از جمله در بومهن و پردیس، شب را از خارج از خانه و در خیابان ها و پارک‌ها به‌سر بردند.
+
+به گزارش خبرگزاری مهر زمین‌لرزه در تهران بین ۵ تا ۱۰ ثانیه طول کشید.
+مرکز لرزه‌نگاری دانشگاه تهران اعلام کرده بزرگی زلزله دیشب ۴/۶ و کانون آن در حوالی پردیس، حد فاصل بین استان‌های تهران و مازندران و در عمق ۱۰ کیلومتری زمین بوده است.
+در تهران پس از زلزله اول در ساعت ۳۰ دقیقه بامداد امروز یک پس‌لرزه دیگر و در مجموع تا کنون هشت زمین‌لرزه خفیف ثبت شده است.
+
+بنابر گزارش رسانه‌های ایران تاکنون اخباری مبنی بر خسارت‌های احتمالی زمین لرزه در تهران اعلام نشده و بررسی‌های اولیه نهادهای امدادرسانی حاکی از این است که زلزله تا این لحظه در تهران مصدومی نداشته است.
+
+وقوع این زمین‌لرزه در پایتخت ایران، هم‌زمان با طوفانی با سرعت ۵۵ کیلومتر بر ساعت در تهران و قطعی برق در برخی مناطق تهران همراه شد.
+متن کامل خبر را اینجا بخوانید.
+🎥IRIB
+@BBCPersian
+</div>
+
+## Hranews — post 112924
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تداوم بازداشت و بی‌خبری از وضعیت سیاوش عزیزی‌مقدم
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– سیاوش عزیزی‌مقدم، شهروند اهل مهاباد حدود ۲۰ روز است که بازداشت شده و در بلاتکلیفی به‌سر می‌برد. بی‌خبری از سرنوشت این شهروند، منجر به افزایش نگرانی‌های خانواده وی شده است.
+
+ادامه مطلب
+
+#سیاوش_عزیزی‌مقدم
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 119706
+
+<div align="center">
+  <a href="telegram/content/alonews_119706_1778670855.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈برآورد می‌شود که در کف اقیانوس‌ها ۱۱۳ میلیون بشکه نفت در داخل کشتی‌هایی که در طول جنگ جهانی دوم غرق شده‌اند، وجود دارد.
+
+
+🔴این میزان تقریباً معادل حجم تولید روزانه نفت در جهان در حال حاضر است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 14:33
 ---
 
