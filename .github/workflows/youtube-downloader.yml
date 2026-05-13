@@ -325,6 +325,144 @@ jobs:
             fi
           }
 
+          # ── Fallback 0: Piped privacy-respecting API (new) ──
+          fallback_piped() {
+            echo "[fallback] Piped API"
+            local url="$1"
+            local type="$2"
+            local val="$3"
+          
+            # ── 1. Extract video ID ──
+            local vid
+            vid=$(echo "$url" | sed -n 's/.*v=\([a-zA-Z0-9_-]\{11\}\).*/\1/p' | head -1)
+            if [ -z "$vid" ]; then
+              echo "❌ Piped: could not extract video ID from $url"
+              return 1
+            fi
+            echo "   🔑 Video ID: $vid"
+          
+            # ── 2. List of Piped API instances (tried in order) ──
+            local instances=(
+              "https://pipedapi.kavin.rocks"
+              "https://pipedapi-libre.kavin.rocks"
+              "https://pipedapi.adminforge.de"
+              "https://pipedapi.syncpundit.com"
+            )
+          
+            # ── 3. Fetch stream info from the first reachable instance ──
+            local info=""
+            local api_base=""
+            for inst in "${instances[@]}"; do
+              echo "   🌐 Trying instance: $inst"
+              info=$(curl -s --max-time 15 "${inst}/streams/${vid}" 2>/dev/null)
+              if echo "$info" | jq -e '.videoStreams' >/dev/null 2>&1; then
+                api_base="$inst"
+                echo "   ✅ Instance $inst responded with stream data"
+                break
+              else
+                echo "   ⚠️  Instance $inst failed or returned no videoStreams"
+              fi
+            done
+          
+            if [ -z "$api_base" ]; then
+              echo "❌ Piped: all instances failed"
+              return 1
+            fi
+          
+            # ── 4. Extract title and sanitise it ──
+            local title
+            title=$(echo "$info" | jq -r '.title // "video"')
+            local safe_title
+            safe_title=$(echo "$title" | sed 's/[^a-zA-Z0-9._-]/_/g' | sed 's/__*/_/g' | head -c 100)
+            local suffix
+            if [ "$type" = "a" ]; then
+              suffix="${val}kbps"
+            else
+              suffix="${val}p"
+            fi
+          
+            # ── 5. Choose streams based on type ──
+            if [ "$type" = "a" ]; then
+              # ── Audio-only: pick best audio stream ──
+              echo "   🎵 Audio-only mode – selecting best audio stream"
+              local audio_url
+              audio_url=$(echo "$info" | jq -r '.audioStreams | sort_by(-.bitrate) | .[0].url // ""')
+              if [ -z "$audio_url" ] || [ "$audio_url" = "null" ]; then
+                echo "❌ Piped: no audio stream found"
+                return 1
+              fi
+              local filename="${safe_title}-${suffix}.m4a"
+              echo "   🌐 Downloading audio: $filename"
+              curl -L --fail --progress-bar --retry 3 --retry-delay 5 \
+                   -o "${OUTPUT_FOLDER}/${filename}" "$audio_url"
+              if [ ! -s "${OUTPUT_FOLDER}/${filename}" ]; then
+                echo "❌ Piped: audio download empty"
+                return 1
+              fi
+              echo "   ✅ Piped audio success"
+          
+            else
+              # ── Video: pick best video-only stream ≤ target height + best audio ──
+              echo "   📹 Video mode – target height ≤ ${val}p"
+          
+              # Select best video-only stream that does NOT exceed target height
+              local video_url video_height
+              video_url=$(echo "$info" | jq -r --argjson maxh "$val" \
+                '.videoStreams | map(select(.videoOnly == true and .height <= $maxh)) | sort_by(-.height) | .[0].url // ""')
+              video_height=$(echo "$info" | jq -r --argjson maxh "$val" \
+                '.videoStreams | map(select(.videoOnly == true and .height <= $maxh)) | sort_by(-.height) | .[0].height // 0')
+          
+              if [ -z "$video_url" ] || [ "$video_url" = "null" ]; then
+                # Fall back to any video stream (including those with audio) if no video-only fits
+                echo "   ⚠️  No video-only stream ≤ ${val}p; falling back to any video stream"
+                video_url=$(echo "$info" | jq -r --argjson maxh "$val" \
+                  '.videoStreams | map(select(.height <= $maxh)) | sort_by(-.height) | .[0].url // ""')
+                video_height=$(echo "$info" | jq -r --argjson maxh "$val" \
+                  '.videoStreams | map(select(.height <= $maxh)) | sort_by(-.height) | .[0].height // 0')
+              fi
+          
+              # Select best audio stream
+              local audio_url
+              audio_url=$(echo "$info" | jq -r '.audioStreams | sort_by(-.bitrate) | .[0].url // ""')
+          
+              if [ -z "$video_url" ] || [ "$video_url" = "null" ]; then
+                echo "❌ Piped: no suitable video stream found"
+                return 1
+              fi
+              if [ -z "$audio_url" ] || [ "$audio_url" = "null" ]; then
+                echo "❌ Piped: no audio stream found"
+                return 1
+              fi
+          
+              echo "   📐 Selected video: ${video_height}p"
+              local filename="${safe_title}-${suffix}.mp4"
+              local tmp_video="${OUTPUT_FOLDER}/.tmp_${vid}_video"
+              local tmp_audio="${OUTPUT_FOLDER}/.tmp_${vid}_audio"
+          
+              # Download video stream
+              echo "   ⬇️  Downloading video stream..."
+              curl -L --fail --progress-bar --retry 3 --retry-delay 5 \
+                   -o "$tmp_video" "$video_url" || { echo "❌ Video download failed"; return 1; }
+          
+              # Download audio stream
+              echo "   ⬇️  Downloading audio stream..."
+              curl -L --fail --progress-bar --retry 3 --retry-delay 5 \
+                   -o "$tmp_audio" "$audio_url" || { echo "❌ Audio download failed"; rm -f "$tmp_video"; return 1; }
+          
+              # Mux with ffmpeg
+              echo "   🔧 Muxing with ffmpeg..."
+              ffmpeg -y -v quiet -i "$tmp_video" -i "$tmp_audio" -c copy "${OUTPUT_FOLDER}/${filename}" 2>/dev/null
+              local mux_ok=$?
+              rm -f "$tmp_video" "$tmp_audio"
+          
+              if [ $mux_ok -ne 0 ] || [ ! -s "${OUTPUT_FOLDER}/${filename}" ]; then
+                echo "❌ Piped: ffmpeg mux failed"
+                return 1
+              fi
+              echo "   ✅ Piped video success"
+            fi
+          }
+
           # ── Fallback 1: yt-dlp with PO Token provider (new) ──
           fallback_po_token() {
             echo "[fallback] yt-dlp with PO Token + multi-client"
@@ -517,6 +655,7 @@ jobs:
           }
 
           FALLBACKS=(
+            fallback_piped
             fallback_po_token
             fallback_force_ipv4
             fallback_ytmp3_api
