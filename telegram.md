@@ -7,6 +7,20 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 07:44
+---
+
+## WithYashar — post 11107
+
+<div align="center">
+  <img src="telegram/content/WithYashar_11107_1778645658.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ در تروث پستی گزاشته که ونزوئلا رو به عنوان ایالت ۵١ ام آمریکا نشون میده
+@withyashar
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 07:33
 ---
 
