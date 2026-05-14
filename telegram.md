@@ -7,6 +7,165 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 13:14
+---
+
+## WithYashar — post 11195
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اتاق جنگ با یاشار : جابجای‌های غول آسا دو شماره یک «AirForce1» هواپیمای ویژه ریاست جمهوری و «B1 »بمب افکن اسطورهی آمریکا و خبر ویژه از داخل ایران https://www.instagram.com/reel/DYQCr39RJ4i/?igsh=MThycjJiYWZmbnJ3dA== کارای اداریش رو انجام بدید تا بعدش بریم…
+</div>
+
+## WithYashar — post 11194
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آکسیوس به نقل از مقامات اسرائیلی:
+
+در پی احتمال تصمیم ترامپ برای از سرگیری جنگ، در اسرائیل حالت آماده‌باش حداکثری در طول تعطیلات آخر هفته برقرار خواهد شد.
+@withyashar
+</div>
+
+## WithYashar — post 11193
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک مقام کاخ سفید به فاکس‌نیوز:
+
+رئیس‌جمهور چین علاقه‌مند است نفت بیشتری از آمریکا خریداری کند تا وابستگی کشورش به تنگه هرمز را کاهش دهد.
+@withyashar
+</div>
+
+## WithYashar — post 11192
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جان بولتون: مذاکره با ایران برای یک توافق هسته‌ای هدر دادن اکسیژن است.
+
+این افراد دهه‌ها پیش تصمیم استراتژیکی برای دستیابی به سلاح‌های هسته‌ای گرفتند و در این ۴۷ سال هیچ مدرکی وجود ندارد که نشان دهد آن‌ها این هدف را رها کرده‌اند.
+@withyashar
+</div>
+
+## FoxNewsTwitter — post 341702
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341702_1778751874.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: Brand new details released about President Trump’s bilateral meeting with Chinese President Xi.
+
+The White House says China is interested in buying more American oil while also agreeing with the U.S. that Iran can never have a nuclear weapon.
+
+Meanwhile, the Chinese government says Trump was told that Taiwan is the most important issue on the table for the communist country — and warns the future of U.S.-China ties depends on how it’s handled.
+
+When it comes to Iran, President Trump says he doesn’t need Xi’s help with ending the conflict.
+
+U.S. CEOs are also making pitches for expanded business ties during the ongoing meeting.
+@aishahhasnie with the latest.
+</div>
+
+## DEJradio — post 4627
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4627_1778751874.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨
+⭕️ مایک والتز، سفیر ایالات متحده در سازمان ملل، ضمن اشاره به حمایت ۱۱۳ کشور از پیش‌نویس قطعنامه شورای امنیت در محکومیت اقدامات جمهوری اسلامی، تصریح کرد تهران به دلیل اقدامات غیرقانونی خود، از جمله مین‌گذاری و اعمال عوارض بر کشتیرانی در تنگه هرمز، «منزوی» شده است.
+
+آقای والتز در شبکه اجتماعی ایکس نوشت که کشورهایی از جمله هند، ژاپن و کره جنوبی از این ابتکار حمایت کرده‌اند.
+
+#تنگه_هرمز
+@DEJradio
+</div>
+
+## mamlekate — post 103525
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝 آغاز دیدار شی و ترامپ در سایه جنگ ایران
+
+رهبران چین و آمریکا گفت‌وگوهای رسمی خود را آغاز کردند. مسائل تجاری، تنش چین و تایوان و همچنین جنگ ایران از موضوعات محوری دیدار شی و ترامپ خواهد بود. واشنگتن به نقش فعالانه‌تر پکن در حل بحران تنگه هرمز امیدوار است.
+
+شماری از شخصیت‌های تجاری برجسته آمریکا از جمله ایلان ماسک،‌ مدیرعامل شرکت تسلا، تیم کوک، مدیرعامل اپل و جنسن هوانگ، مدیر اجرایی انویدیا، دونالد ترامپ را در این سفر همراهی می‌کنند.
+
+
+📝 ترامپ به شی: روابط آمریکا با چین «بهتر از همیشه» خواهد بود
+
+
+📝 شی در دیدار با ترامپ: مسئله تایوان «مهم‌ترین» موضوع است و در صورت سوء‌مدیریت می‌تواند «وضعیتی بسیار خطرناک» ایجاد کند
+
+@mamlekate
+</div>
+
+## DW_Farsi — post 124677
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124677_1778751875.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 عبور دومین نفتکش ژاپنی از تنگه هرمز
+
+داده‌های ردیابی از شرکت ال‌اس‌ای‌جی (LSEG) که تردد کشتی‌ها را رهگیری می‌کند، پنجشنبه ۱۴ مه (۲۴ اردیبهشت) نشان داد که یک نفت‌کش ژاپنی از تنگه هرمز  عبور کرده است. این نفت‌کش متعلق به "انیوس" (Eneos)، بزرگترین شرکت نفت و انرژی ژاپن بوده و تحت پرچم پاناما در حرکت است.
+
+این دومین بار است که یک کشتی متعلق به شرکت‌های ژاپنی از آغاز جنگ آمریکا و اسرائیل علیه جمهوری اسلامی و انسداد تنگه هرمز به این سو، موفق به عبور از این آبراه حیاتی شده است. پیش از آغاز جنگ ایران، ژاپن حدود ۹۵ درصد از نفت خود را از کشورهای حوزه حلیج فارس وارد می‌کرد.
+
+می‌یاتا توموهیده، مدیر عامل شرکت انیوس روز پنجشنبه به خبرنگاران گفت که این نفت‌کش به‌طور امن تنگه هرمز را پشت سر گذاشته و به احتمال قوی اواخر ماه مه یا اوایل ماه ژوئن به ژاپن خواهد رسید. این نفت‌کش حامل ۱.۲ میلیون بشکه نفت خام کویت و ۷۰۰ هزار بشکه نفت امارات متحده عربی است که بنا بر داده شرکت رهگیری "کپلر" در اواخر ماه فوریه بارگیری شده و قرار بوده که سوم ژوئن به ژاپن برسد.
+
+ژاپن از زمان بروز جنگ در اواخر ماه فوریه تلاش‌های دیپلماتیک خود را تقویت کرد و در عین حال به دنبال بدیل‌هایی برای جایگزین کردن محموله‌های تحویل‌داده‌نشده بوده است. دولت ژاپن در عین حال یارانه‌های درخورتوجهی را برای پایین نگه داشتن بهای بنزین در بازارهای داخلی تخصیص داده است.
+
+وزارت خارجه ژاپن با انتشار بیانیه‌ای اعلام کرد که دولت این کشور در ارتباط با عبور این نفت‌کش از تنگه هرمز، با جمهوری اسلامی در تماس مسقتیم بوده است. سانائه تاکایچی، نخست‌وزیر ژاپن نیز ماه آوریل در تماسی تلفنی با مسعود پزشکیان، رئیس جمهور ایران گفت‌وگو کرد.
+
+این وزارتخانه در بیانیه خود تأکید کرد، توکیو به تلاش‌های دیپلماتیک و هماهنگی‌ ادامه خواهد داد تا ۳۹ کشتی مرتبط با این کشور را از آب‌های خلیج فارس خارج کند.
+نخستین کشتی ژاپنی که موفق به عبور از تنگه هرمز شده بود، نفت‌کش "ایدمیتسو مارو" (Idemitsu Maru)، متعلق به یک شرکت وابسته به کمپانی نفتی ایدمیتسو کوسان بود. این کشتی حامل نفت عربستان سعودی، اواخر ماه آوریل از تنگه هرمز گذر کرده بود.
+
+@dw_farsi
+</div>
+
+## alonews — post 119896
+
+<div align="center">
+  <a href="telegram/content/alonews_119896_1778751876.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈آکسیوس به نقل از مقامات اسرائیلی: ما در انتظار تصمیم ترامپ برای از سرگیری جنگ، سطح هشدار را در آخر هفته به بالاترین حد خود افزایش خواهیم داد. 
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119895
+
+<div align="center">
+  <a href="telegram/content/alonews_119895_1778751876.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈جان بولتون: مذاکره بر سر توافق هسته‌ای با ایران اتلاف اکسیژن است.
+
+
+🔴این افراد دهه‌ها پیش تصمیمی استراتژیک برای دستیابی به سلاح‌های هسته‌ای گرفتند.
+
+
+🔴در ۴۷ سال گذشته حتی یک مدرک هم وجود ندارد که نشان دهد آنها از این هدف دست کشیده‌اند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119894
+
+<div align="center">
+  <a href="telegram/content/alonews_119894_1778751879.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بلومبرگ: ۴ روز است که از خارک بارگیری نفت نمی‌شود و اسکله‌های نفتی کاملاً خالی است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 13:04
 ---
 
