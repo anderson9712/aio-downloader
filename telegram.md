@@ -7,6 +7,211 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 13:45
+---
+
+## VahidOOnLine — post 240080
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240080_1778753725.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️امیرمهدی علوی، سخنگوی فدراسیون فوتبال جمهوری اسلامی ایران روز پنجشنبه اعلام کرد روند اداری دریافت ویزای کاروان اعزامی ایران به جام‌جهانی در امارات انجام شده و فدراسیون همچنان منتظر پاسخ آمریکاست.
+او گفت در صورت صادر نشدن ویزا برای برخی بازیکنان، کادر فنی گزینه‌های جایگزین را در نظر گرفته است.
+
+ علوی همچنین از برگزاری نشست رئیس فدراسیون فوتبال با مقام‌های فیفا در ترکیه طی ۴۸ ساعت آینده خبر داد و گفت موضوع صدور ویزا، نخستین خواسته مطرح‌شده از سوی ایران خواهد بود.
+در فاصله کمتر از یک ماه تا آغاز جام‌جهانی، تاخیر در صدور ویزای آمریکا به یکی از چالش‌های اصلی تیم ملی تبدیل شده و گزارش‌ها حاکی است احتمال رد ویزای برخی اعضای کاروان به‌دلیل سوابق یا ارتباط با سپاه پاسداران وجود دارد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9067
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9067_1778753726.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴عبور از تنگه هرمز صبح امروز:
+
+🚢• نفتکش گاز مایع (LPG) «ROYAL H» که تحت تحریم‌های آمریکا قرار دارد
+🚢• نفتکش نفت «SWIFT FALCON» متعلق به چین
+🚢• نفتکش نفت «TREND» با ثبت امارات (اما نه با مالکیت اماراتی)
+🚢• نفتکش نفت «RAISSA» متعلق به چین
+
+🔸احتمالاً شناوری که توقیف شد، به‌صورت پنهانی در حال حرکت بوده است.
+
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341703
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341703_1778753727.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: An American doctor who helped treat sick passengers during a hantavirus outbreak at sea is now being cleared to leave isolation after days of uncertainty.
+
+He was one of 16 Americans taken to Nebraska for monitoring, but the only one placed in a biocontainment unit after an inconclusive test result.
+
+Hospital officials say he’s now been cleared to leave that unit and will join the others in standard quarantine as 11 cases, including three deaths, are reported worldwide.
+</div>
+
+## FarsiVOA — post 217708
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217708_1778753728.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری رویترز از عبور دومین نفتکش به مقصد ژاپن از تنگه هرمز در روز پنج‌شنبه خبر داد. این نفتکش حامل ۱.۲ میلیون بشکه نفت کویت و ۷۰۰ هزار بشکه نفت امارات است.
+
+نفتکش قبلی حدود دو هفته پیش از تنگه هرمز گذشته بود.
+
+سانائه تاکایچی نخست‌وزیر ژاپن می‌گوید در راستای خروج محموله‌های نفتی ژاپن از تنگه هرمز، مستقیماً با رئیس‌جمهور ایران تماس گرفته و از بابت اجازه عبور نفتکش‌ها تشکر کرد. او گفت هنوز ۳۹ کشتی مرتبط با ژاپن در خلیج فارس است.
+
+پیش از انسداد تنگه هرمز توسط جمهوری اسلامی، ۹۵ درصد نفت وارداتی ژاپن از کشورهای عرب حوزه خلیج فارس انجام می‌شد.
+@FarsiVOA
+</div>
+
+## DW_Farsi — post 124679
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124679_1778753729.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 معین خبر اجرای سرود برای تیم ملی فوتبال ایران را تکذیب کرد
+
+معین، خواننده معروف پاپ ساکن لس‌آنجلس، شایعات در مورد خواندن قطعه‌ای برای تیم ملی فوتبال ایران را تکذیب کرد. او پنجشنبه ۱۴ مه (۲۴ اردیبهشت) با انتشار پستی در اینستاگرام تأکید کرد که این موضوع صحت ندارد.
+
+او نوشت: «عشق من به مردم و سرزمینم همیشه واقعی بوده، اما صدای من زمانی معنا دارد که دل مردم ایران آرام باشد و حال ایران خوب.»
+
+مهدی تاج، رئیس فدراسیون فوتبال ایران، به تازگی در حاشیه مراسم بدرقه تیم ملی برای حضور در جام جهانی ۲۰۲۶ در پاسخ به پرسش یک خبرنگار درباره شایعات مربوط به اجرای یک قطعه برای تیم ملی توسط معین گفته بود: «فدراسیون نقشی در این موضوع ندارد، اما در جریان هستیم، از هر اثری که برای حمایت از تیم ملی تولید شود استقبال می‌کنیم.‌»
+
+تاج در ادامه در مورد "رسمیت‌ داشتن این قطعه" افزوده بود: «اگر ایشان [معین] بخواند... هر کسی از تیم ملی ایران دفاع و حمایت کند، جایش روی چشم ماست.»
+
+@dw_farsi
+</div>
+
+## Dirty_Kids — post 389427
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389427_1778753730.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🌪وقتی اینترنت طوفانیه... کافیه بادبان ها رو بکشی تا
+
+
+⚫️با بالاترین کیفیت ممکن
+⚡️ 
+
+⚫️100 هزار تومان شارژ هدیه 
+🎁
+
+⚫️پایین ترین قیمت گیگی 250
+🌐 
+
+⚫️و ارائه پورسانت %10 در ازای هر معرفی
+💼
+
+بتونی یه اتصال پایدار با پشتیبانی 24 ساعته داشته باشی
+🚀
+
+بادبان راهتو باز می‌کنه
+⛵️
+
+R24
+
+🛡@BadBan_VPN | کانال 
+
+🤖@BadBan_VPNBot | ربات 
+
+📞@BadBan_VPNSupport | پشتیبانی
+</div>
+
+## Dirty_Kids — post 389426
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389426_1778753731.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+😂😂😂😂
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389425
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389425_1778753731.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جنگ آمریکا و چین موقع دست دادن؛
+
+ترامپ به سمت شی رفت، دست دادن و بعد جفت طرف سعی داشتن دست‌ِ طرف مقابل رو به سمت خودشون بِکشن که این صحنه خلق شد:
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119905
+
+<div align="center">
+  <a href="telegram/content/alonews_119905_1778753734.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پاپ لئو افزایش هزینه‌های نظامی در اروپا به بالاترین سطح از پایان جنگ سرد را خیانت به دیپلماسی دانست و افزود که جهان در حال معلول شدن بر اثر جنگ‌ها است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119904
+
+<div align="center">
+  <a href="telegram/content/alonews_119904_1778753734.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سناتور گراهام درباره حمایت چین از ایران: اگر آنها تغییر کنند، چین پاداش خواهد گرفت.
+
+
+🔴اگر تغییر نکنند، مجازات خواهند شد!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119903
+
+<div align="center">
+  <a href="telegram/content/alonews_119903_1778753738.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈آکسیوس به نقل از مقامات آمریکایی: یکی از گزینه‌های ترامپ در مورد ایران پس از بازگشت از چین، از سرگیری عملیات آزادی در تنگه هرمز است
+
+
+🔴یکی دیگر از گزینه‌های ترامپ، راه‌اندازی یک کمپین بمباران جدید با تمرکز بر زیرساخت‌های ایران است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119902
+
+<div align="center">
+  <a href="telegram/content/alonews_119902_1778753739.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈کرملین : سفر پوتین به چین خیلی زود انجام میشه و مقدماتش تکمیل شده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 13:33
 ---
 
